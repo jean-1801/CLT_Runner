@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"sdn_coletavel",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.14002268,
+  "exportDir":"",
+  "name":"sdn_coletavel",
+  "parent":{
+    "name":"Sonds",
+    "path":"folders/Sonds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sdn_coletavel.wav",
+  "volume":0.01,
+}
