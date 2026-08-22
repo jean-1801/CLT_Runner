@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Sprites_História",
-    "path":"folders/Sprites/Sprites_História.yy",
+    "name":"História",
+    "path":"folders/Sprites/História.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
