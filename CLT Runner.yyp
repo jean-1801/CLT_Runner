@@ -27,7 +27,9 @@
   },
   "name":"CLT Runner",
   "resources":[
+    {"id":{"name":"obj_batata","path":"objects/obj_batata/obj_batata.yy",},},
     {"id":{"name":"obj_jogador","path":"objects/obj_jogador/obj_jogador.yy",},},
+    {"id":{"name":"obj_system","path":"objects/obj_system/obj_system.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"sdn_coletavel","path":"sounds/sdn_coletavel/sdn_coletavel.yy",},},
