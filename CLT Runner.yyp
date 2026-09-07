@@ -28,6 +28,9 @@
   "name":"CLT Runner",
   "resources":[
     {"id":{"name":"obj_batata","path":"objects/obj_batata/obj_batata.yy",},},
+    {"id":{"name":"obj_chocolate","path":"objects/obj_chocolate/obj_chocolate.yy",},},
+    {"id":{"name":"obj_coxinha","path":"objects/obj_coxinha/obj_coxinha.yy",},},
+    {"id":{"name":"obj_hamburguer","path":"objects/obj_hamburguer/obj_hamburguer.yy",},},
     {"id":{"name":"obj_jogador","path":"objects/obj_jogador/obj_jogador.yy",},},
     {"id":{"name":"obj_system","path":"objects/obj_system/obj_system.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
@@ -39,7 +42,7 @@
     {"id":{"name":"spr_clt","path":"sprites/spr_clt/spr_clt.yy",},},
     {"id":{"name":"spr_coxinha","path":"sprites/spr_coxinha/spr_coxinha.yy",},},
     {"id":{"name":"spr_fundo","path":"sprites/spr_fundo/spr_fundo.yy",},},
-    {"id":{"name":"spr_hambuguer","path":"sprites/spr_hambuguer/spr_hambuguer.yy",},},
+    {"id":{"name":"spr_hamburguer","path":"sprites/spr_hamburguer/spr_hamburguer.yy",},},
     {"id":{"name":"spr_page1","path":"sprites/spr_page1/spr_page1.yy",},},
     {"id":{"name":"spr_page2","path":"sprites/spr_page2/spr_page2.yy",},},
     {"id":{"name":"spr_page3","path":"sprites/spr_page3/spr_page3.yy",},},
