@@ -11,6 +11,8 @@
   "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"Objetos","folderPath":"folders/Objetos.yy","name":"Objetos","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Game","folderPath":"folders/Objetos/Game.yy","name":"Game","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Historia","folderPath":"folders/Objetos/Historia.yy","name":"Historia","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Script","folderPath":"folders/Script.yy","name":"Script","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sonds","folderPath":"folders/Sonds.yy","name":"Sonds","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -33,8 +35,13 @@
     {"id":{"name":"obj_coxinha","path":"objects/obj_coxinha/obj_coxinha.yy",},},
     {"id":{"name":"obj_hamburguer","path":"objects/obj_hamburguer/obj_hamburguer.yy",},},
     {"id":{"name":"obj_jogador","path":"objects/obj_jogador/obj_jogador.yy",},},
+    {"id":{"name":"obj_page1","path":"objects/obj_page1/obj_page1.yy",},},
+    {"id":{"name":"obj_page2","path":"objects/obj_page2/obj_page2.yy",},},
+    {"id":{"name":"obj_page3","path":"objects/obj_page3/obj_page3.yy",},},
+    {"id":{"name":"obj_page4","path":"objects/obj_page4/obj_page4.yy",},},
     {"id":{"name":"obj_system","path":"objects/obj_system/obj_system.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
+    {"id":{"name":"rm_historia","path":"rooms/rm_historia/rm_historia.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"sdn_coletavel","path":"sounds/sdn_coletavel/sdn_coletavel.yy",},},
     {"id":{"name":"sdn_musica","path":"sounds/sdn_musica/sdn_musica.yy",},},
@@ -54,7 +61,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_historia","path":"rooms/rm_historia/rm_historia.yy",},},
+    {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

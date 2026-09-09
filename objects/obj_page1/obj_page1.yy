@@ -1,16 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_clt",
+  "%Name":"obj_page1",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":32,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_clt",
+  "name":"obj_page1",
   "overriddenProperties":[],
   "parent":{
-    "name":"Game",
-    "path":"folders/Objetos/Game.yy",
+    "name":"Historia",
+    "path":"folders/Objetos/Historia.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_clt",
-    "path":"sprites/spr_clt/spr_clt.yy",
+    "name":"spr_page1",
+    "path":"sprites/spr_page1/spr_page1.yy",
   },
   "spriteMaskId":null,
   "visible":true,
