@@ -1,2 +1,2 @@
-vel = 1
-vspeed = vel
+
+vspeed = global.vel

@@ -29,6 +29,7 @@
   "resources":[
     {"id":{"name":"obj_batata","path":"objects/obj_batata/obj_batata.yy",},},
     {"id":{"name":"obj_chocolate","path":"objects/obj_chocolate/obj_chocolate.yy",},},
+    {"id":{"name":"obj_clt","path":"objects/obj_clt/obj_clt.yy",},},
     {"id":{"name":"obj_coxinha","path":"objects/obj_coxinha/obj_coxinha.yy",},},
     {"id":{"name":"obj_hamburguer","path":"objects/obj_hamburguer/obj_hamburguer.yy",},},
     {"id":{"name":"obj_jogador","path":"objects/obj_jogador/obj_jogador.yy",},},
