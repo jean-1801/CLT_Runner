@@ -57,6 +57,7 @@
     {"id":{"name":"spr_page4","path":"sprites/spr_page4/spr_page4.yy",},},
     {"id":{"name":"spr_Player","path":"sprites/spr_Player/spr_Player.yy",},},
     {"id":{"name":"spr_space","path":"sprites/spr_space/spr_space.yy",},},
+    {"id":{"name":"Sprite13","path":"sprites/Sprite13/Sprite13.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
