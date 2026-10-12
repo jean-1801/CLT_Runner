@@ -4,10 +4,10 @@ instance_create_layer(50, 167 , layer, objm_player)
 
 moverm = function()
 {
-	var _cima , _baixo 
-	_cima = keyboard_check_pressed(vk_up)
-	_baixo = keyboard_check_pressed(vk_down)
-	
+	var _cima , _baixo , _enter
+	_cima	= keyboard_check_pressed(vk_up)
+	_baixo	= keyboard_check_pressed(vk_down)
+	_enter	= keyboard_check_pressed(vk_enter)
 	if (_cima = true and atual > 0)
 	{
 		atual --
@@ -17,4 +17,12 @@ moverm = function()
 		atual ++	
 	}
 	show_debug_message(atual)
+	if (_enter = true)
+	{
+		if (atual = 0) room_goto(rm_game)
+		if (atual = 1) room_goto(rm_historia)
+		if (atual = 2) game_end()
+	}
+	
 }
+
