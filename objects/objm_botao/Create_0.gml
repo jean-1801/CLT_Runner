@@ -1,4 +1,4 @@
-menu = ["Jogar", "Historia", "Sair"]
+menu = ["Jogar", "Historia", "Sair", "Pontos :" + string(global.pontos)]
 atual = 0
 instance_create_layer(50, 167 , layer, objm_player)
 
@@ -16,7 +16,6 @@ moverm = function()
 	{
 		atual ++	
 	}
-	show_debug_message(atual)
 	if (_enter = true)
 	{
 		if (atual = 0) room_goto(rm_game)

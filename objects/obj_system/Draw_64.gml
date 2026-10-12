@@ -1,0 +1,1 @@
+draw_text(50, 20, "Pontos :" + string(global.pontos) )

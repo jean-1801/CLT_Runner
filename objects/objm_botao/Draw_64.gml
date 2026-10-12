@@ -1,7 +1,7 @@
 
 var _meio = display_get_gui_height() /2
 draw_set_valign(fa_center)
-for (var i = 0; i < 3; i++)
+for (var i = 0; i < 4; i++)
 {
 	var _cor = c_white
 	if ( i == atual) 
